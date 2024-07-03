@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMeterLicense", "CodeMeterLicense\CodeMeterLicense.csproj", "{409F5873-DDA0-4492-BBFB-3C0360232589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoCase", "DemoCase\DemoCase.csproj", "{B24004EF-BBE8-421C-82EC-E3E0B648610E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{409F5873-DDA0-4492-BBFB-3C0360232589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{409F5873-DDA0-4492-BBFB-3C0360232589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{409F5873-DDA0-4492-BBFB-3C0360232589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{409F5873-DDA0-4492-BBFB-3C0360232589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24004EF-BBE8-421C-82EC-E3E0B648610E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24004EF-BBE8-421C-82EC-E3E0B648610E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24004EF-BBE8-421C-82EC-E3E0B648610E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24004EF-BBE8-421C-82EC-E3E0B648610E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
